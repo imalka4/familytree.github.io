@@ -238,7 +238,7 @@
                   "members": [
                     {
                       "name": "Ravindu Priyadarsha",
-                      "birth": "1988/02/12"
+                      "birth": "1988-02-12"
                     }
                   ]
                 },
@@ -246,7 +246,7 @@
                   "members": [
                     {
                       "name": "Amanda Devini",
-                      "birth": "1995/05/21"
+                      "birth": "1995-05-21"
                     }
                   ]
                 }
