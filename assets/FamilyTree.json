@@ -11,8 +11,16 @@
       "imgW": 230
     }
   ],
-  "familyImg": {
-    "imgW": 700
+  "familyImgs": {
+    "maxWidth": 820,
+    "imgs": [
+      {
+        "imgW": 800
+      },
+      {
+        "imgW": 800
+      }
+    ]
   },
   "children": [
     {
